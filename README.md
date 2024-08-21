@@ -8,43 +8,43 @@
 
 <p align="left">
     <a href="https://www.learn-c.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://www.cplusplus.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://www.latex-project.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" style="margin-right: 10px;" />
+        <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" style="margin-right: 20px;" />
     </a>
 </p>
 
