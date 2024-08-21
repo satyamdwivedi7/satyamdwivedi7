@@ -6,7 +6,7 @@
 <p>I am a core member of ADG-VIT (Advanced Developers Group) where I lead web development tasks and contribute to organizing events like hackathons and workshops. My work includes developing tools and platforms that support the tech community at VIT.</p>
 <h2 id="tools-languages" style="color: #2c3e50;">Tools & Languages</h2>
 
-<p align="left">
+<p align="left" style="display: flex; justify-content: space-between;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 20px;" />
@@ -21,7 +21,6 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" style="margin-right: 20px;" />
 </p>
-
 
 <h2 id="contact" style="color: #2c3e50;">Contact</h2>
 <p>Feel free to reach out if you have any questions or collaboration ideas! You can find me through thefollowing:</p>
