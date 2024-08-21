@@ -6,19 +6,31 @@
 <p>I am a core member of ADG-VIT (Advanced Developers Group) where I lead web development tasks and contribute to organizing events like hackathons and workshops. My work includes developing tools and platforms that support the tech community at VIT.</p>
 <h2 id="tools-languages" style="color: #2c3e50;">Tools & Languages</h2>
 
-<p align="left" style="display: flex; justify-content: space-between;">
+<p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin-right: 20px;" />
+    &nbsp;
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" style="margin-right: 20px;" />
 </p>
 
