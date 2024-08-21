@@ -5,7 +5,7 @@
 <h2 id="work-contributions" style="color: #2c3e50;">Work & Contributions</h2>
 <p>I am a core member of ADG-VIT (Advanced Developers Group) where I lead web development tasks and contribute to organizing events like hackathons and workshops. My work includes developing tools and platforms that support the tech community at VIT.</p>
 <h2 id="tools-languages" style="color: #2c3e50;">Tools & Languages</h2>
-<ul style="list-style: none; padding: 0; display: inline;">
+<ul style="list-style: none; padding: 0; display: inline-block;">
     <li style="display: inline; margin-right: 15px;">
         <a href="https://www.learn-c.org/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="border-radius: 50%;">
