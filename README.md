@@ -36,12 +36,25 @@
 
 <h2 id="contact" style="color: #2c3e50;">Contact</h2>
 <p>Feel free to reach out if you have any questions or collaboration ideas! You can find me through thefollowing:</p>
-<ul>
-    <li><strong>Email</strong>: <a href="mailto:contact@satyamdwivedi.com.np" style="color: #2980b9">contact@satyamdwivedi.com.np</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/satyam7579" style="color: #2980b9;">https://linkedin.com/in/satyam7579</a></li>
-    <li><strong>GitHub</strong>: <a href="https://github.com/satyamdwivedi7" style="color: #2980b9;">https://github.com/satyamdwivedi7</a></li>
-    <li><strong>Portfolio</strong>: <a href="https://satyamdwivedi.com.np" style="color: #2980b9;">https://satyamdwivedi.com.np</a></li>
-</ul>
+<table border="0">
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:contact@satyamdwivedi.com.np" style="color: #2980b9;">contact@satyamdwivedi.com.np</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://linkedin.com/in/satyam7579" style="color: #2980b9;">https://linkedin.com/in/satyam7579</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/satyamdwivedi7" style="color: #2980b9;">https://github.com/satyamdwivedi7</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://satyamdwivedi.com.np" style="color: #2980b9;">https://satyamdwivedi.com.np</a></td>
+  </tr>
+</table>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamdwivedi7&show_icons=true&locale=en&theme=dracula"
         alt="satyamdwivedi7" />
 </p>
