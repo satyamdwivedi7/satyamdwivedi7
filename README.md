@@ -79,7 +79,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamdwivedi7&show_icons=true&rank_icon=github&theme=radical" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=satyamdwivedi7&show_icons=true&rank_icon=github&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamdwivedi7&layout=compact&theme=radical" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamdwivedi7&layout=compact&theme=radical" />
 </p>
