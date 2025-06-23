@@ -69,10 +69,24 @@
 
 ### 📫 Contact
 
-- 📧 Email: [contact@satyamdwivedi.com.np](mailto:contact@satyamdwivedi.com.np)
-- 🔗 LinkedIn: [linkedin.com/in/satyam7579](https://linkedin.com/in/satyam7579)
-- 🧑‍💻 GitHub: [github.com/satyamdwivedi7](https://github.com/satyamdwivedi7)
-- 🌐 Portfolio: [satyamdwivedi.com.np](https://satyamdwivedi.com.np)
+<table>
+  <tr>
+    <th>Contact</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>📧 Email</td>
+    <td><a href="mailto:contact@satyamdwivedi.com.np">contact@satyamdwivedi.com.np</a></td>
+  </tr>
+  <tr>
+    <td>🔗 LinkedIn</td>
+    <td><a href="https://linkedin.com/in/satyam7579">linkedin.com/in/satyam7579</a></td>
+  </tr>
+  <tr>
+    <td>🌐 Portfolio</td>
+    <td><a href="https://satyamdwivedi.com.np">satyamdwivedi.com.np</a></td>
+  </tr>
+</table>
 
 ---
 
