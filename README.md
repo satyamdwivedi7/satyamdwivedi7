@@ -54,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" width="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
 </p>
@@ -63,8 +64,8 @@
 ### 📜 Certifications
 
 - 🟢 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/82eee4b2-a979-4d18-b7ba-e3ca8dedc35e/linked_in?t=sw5bxn)
-- 🟠 [Oracle Generative AI Foundations Certification](https://catalog-education.oracle.com/ords/certview/sharebadge?id=93ED99EEACB5F02938700EA524CE9203AB30E109268506AD3F269451008EBEE6)
-
+- 🟠 [Oracle AI Foundations Certification](https://catalog-education.oracle.com/ords/certview/sharebadge?id=93ED99EEACB5F02938700EA524CE9203AB30E109268506AD3F269451008EBEE6)
+- 🟠 [Oracle Generative AI Professional Certification](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D8F1DD3029067CB5D4C0C91EF1029B96925C9538E72763B64057E0EDD196F528)
 ---
 
 ### 📫 Contact
